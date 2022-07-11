@@ -1,6 +1,7 @@
 # UNBREAKABLE_CODE
 Sistema de Control de Prestamos
 
+Este sistema debe:
 1- Realizar solicitudes de Prestamos
 2- Imprimir tabla de amortizacion
 3- Pago de Prestamos
